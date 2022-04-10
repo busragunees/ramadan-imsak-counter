@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ramadan-imsak-counter/static/css/main.dfbe007e.css",
+    "main.js": "/ramadan-imsak-counter/static/js/main.d914c3ba.js",
+    "index.html": "/ramadan-imsak-counter/index.html",
+    "main.dfbe007e.css.map": "/ramadan-imsak-counter/static/css/main.dfbe007e.css.map",
+    "main.d914c3ba.js.map": "/ramadan-imsak-counter/static/js/main.d914c3ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfbe007e.css",
+    "static/js/main.d914c3ba.js"
+  ]
+}

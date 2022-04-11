@@ -178,7 +178,7 @@ console.log("sahur " , sahurRemainingTime);
       }}
     >
       <div className="container">
-        <h1 className="title">İMSAKİYE</h1>
+        <h1 className="title">RAMAZAN İMSAKİYE</h1>
         <div className="remaining-time"><span dangerouslySetInnerHTML={{ __html: remainingTime}} /></div>
         <MySelect
           default={{

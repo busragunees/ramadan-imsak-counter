@@ -49,7 +49,7 @@ function getStyles(list, selected, theme){
  
   return (
     <div>
-      <FormControl   className="select"
+      <FormControl className="select"
        sx={{ m: 1, width: 300 }}>
         <InputLabel id="demo-multiple-name-label">{props.placeHolder}</InputLabel>
         <Select
